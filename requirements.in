@@ -1,4 +1,4 @@
-urllib3==1.25.11
+urllib3==1.26.5
 requests==2.25.1
 PyNaCl==1.4.0
 gevent==20.9.0
